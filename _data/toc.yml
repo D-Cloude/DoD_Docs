@@ -1,0 +1,17 @@
+- title: DB 사용법법
+  url: docs
+  links:
+    - title: 서버 접근 하는 방법
+      url: docs/howtoaccess
+    - title: 미러 변경 방법
+      url: docs/howtochangemirror
+    - title: Docker 설치법
+      url: docs/howtoinstalldocker
+    - title: MySQL DB 설치법
+      url: docs/howtoinstallmysql    
+    - title: 방화벽 설정하기
+      url: docs/howtosetufw   
+    - title: PHP 설정하기
+      url: docs/howtosetphp
+    - title: Node.js 설정하기
+      url: docs/howtoinstallnodejs
