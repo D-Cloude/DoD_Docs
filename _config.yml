@@ -14,12 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ASMT/DCP-DOCS
+title: DoD_DB
 email: lyw514549@gmail.com  
 author: INMD1
 description: > # this means to ignore newlines until "baseurl:"
-  동의대학교 응용소프트웨어에서 사용되는 가상 실습 플랫폼 
-  문서입니다.
+  동의대학교 응용소프트웨어.
 
 # Add your baseurl here (your repository) but DO NOT CHANGE THE LINE NUMBER without editing .circleci/circle_urls.sh
 baseurl: "/site" # the subpath of your site, e.g. /blog
