@@ -3,9 +3,20 @@
   links:
     - title: Portainer 접속
       url: docs/howtoaccess
-    - title: 컨테이너 설정 (Mysql)
+    - title: 컨테이너 만들기 (공통)
+      url: docs/howtomakecontainer
+      children:
+        - title: 컨테이너 제작 페이지 이동
+          url: docs/howtomakecontainer#1-컨테이너-제작-페이지-이동
+        - title: 컨테이너 설정
+          url: docs/howtomakecontainer#2-컨테이너-설정
+        - title: 포트 매핑 설정
+          url: docs/howtomakecontainer#3-포트-매핑-설정
+        - title: Advanced container settings
+          url: docs/howtomakecontainer#4-advanced-container-settings
+    - title: 컨테이너 만들기 (Mysql)
       url: docs/howtochangemirror
-    - title: 컨테이너 설정 (MariaDB)
+    - title: 컨테이너 만들기 (MariaDB)
       url: docs/howtochangemirror
     - title: DB접속(Mysql)
       url: docs/howtoinstalldocker
