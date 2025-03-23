@@ -15,9 +15,9 @@
         - title: Advanced container settings
           url: docs/howtomakecontainer#4-advanced-container-settings
     - title: 컨테이너 만들기 (Mysql)
-      url: docs/howtochangemirror
+      url: docs/howtomakemysqlcontainer
     - title: 컨테이너 만들기 (MariaDB)
-      url: docs/howtochangemirror
+      url: docs/howtomakemariadbcontainer
     - title: DB접속(Mysql)
       url: docs/howtoinstalldocker
     - title: DB접속(MariaDB)
