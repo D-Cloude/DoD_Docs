@@ -21,7 +21,7 @@ description: > # this means to ignore newlines until "baseurl:"
   동의대학교 응용소프트웨어.
 
 # Add your baseurl here (your repository) but DO NOT CHANGE THE LINE NUMBER without editing .circleci/circle_urls.sh
-baseurl: "/site" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
 url: "https://docs.dcloud.p-e.kr/" # the base hostname & protocol for your site
